@@ -5,6 +5,7 @@ It's a short Python script to parse PDF files & export the images found inside i
 ## Setup
 
 1. Clone the repo
+2. Create the virtual environment - `python3 -m venv env`
 2. Start the virtual environment, ie: `. env/Scripts/activate` (or whatever your system needs to do so)
 3. `pip install -r ./requirements.txt`
 4. End the virtual environment, ie: `deactivate`
