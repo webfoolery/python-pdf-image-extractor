@@ -1,5 +1,5 @@
 cd ./env/Scripts
 call activate
 cd ../../
-python _pdf-image.py --single
+python _pdf-image.py
 pause
