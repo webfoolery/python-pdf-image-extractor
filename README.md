@@ -15,7 +15,7 @@ It's a short Python script to parse PDF files & export the images found inside i
 2. 
     * Linux: Run`_pdf-image.py`
     *  Windows: As above or run `_get-pdf-image.bat`
-3. Check in the same directory to find the image/s
+3. Check in the same directory to find the image/s. Image file names are based upon the original file name with page number, image number & file type appended
 
 ## CHANGELOG
 2022-06-23
